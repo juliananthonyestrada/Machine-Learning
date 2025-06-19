@@ -75,5 +75,5 @@
 
 ## 13. Additional Resources
     - [General Overview](https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-linear-regression/)    
-    - [Amazon Blog Post](https://aws.amazon.com/what-is/linear-regression/(URL)
-    - [Stanford Lecture](https://www.youtube.com/watch?v=4b4MUYve_U8&)list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=2)
+    - [Amazon Blog Post](https://aws.amazon.com/what-is/linear-regression/)
+    - [Stanford Lecture](https://www.youtube.com/watch?v=4b4MUYve_U8&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=2)
