@@ -74,6 +74,6 @@
     - Linear regression should be avoided when the relationship between the featuers and target appears to be nonlinear. Similarly, if input features are highly correlated with each other then linear regression will not perform well. Linear regression might want to be avoided if a dataset contains many outliers. 
 
 ## 13. Additional Resources
-    - [General Overview](https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-linear-regression/)    
-    - [Amazon Blog Post](https://aws.amazon.com/what-is/linear-regression/)
-    - [Stanford Lecture](https://www.youtube.com/watch?v=4b4MUYve_U8&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=2)
+- [General Overview](https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-linear-regression/)    
+- [Amazon Blog Post](https://aws.amazon.com/what-is/linear-regression/)
+- [Stanford Lecture](https://www.youtube.com/watch?v=4b4MUYve_U8&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=2)
