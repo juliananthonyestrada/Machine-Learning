@@ -23,11 +23,6 @@ zillow_venv/
 .AppleDouble
 .LSOverride
 
-# Windows
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-
 # Environment variables
 .env
 .venv
