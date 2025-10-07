@@ -1,0 +1,1 @@
+The bot analyzes all available stocks daily, ranks them by performance or other chosen metrics, and invests in the top ten. It then monitors these positions, rebalancing as needed depending on market changes, maybe analyze the news or financial statements for big changes.
